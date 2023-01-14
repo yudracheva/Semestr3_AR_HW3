@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="horses-run-i96979" size="1.000000 0.666667" />
+    <ImageTarget name="pp_frozen_herobanner_mobile_20501_ae840c59" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
